@@ -1,0 +1,35 @@
+@media screen and(max-width:480){
+    .logo_div> img{
+        /* height:60px; */
+    }
+
+    .nav_bar ul li{
+        flex-direction: column;
+
+    }   
+    
+}
+
+@media screen and(max-width:720){
+
+} 
+   
+
+
+@media screen and (max-width:1120) {
+    .logo_div img{
+        width: 50%;
+
+    }
+   
+    .nav_bar ul li{
+        width:100%;
+
+    }
+
+
+}
+
+
+
+
